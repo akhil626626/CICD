@@ -54,6 +54,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>CICDDEMO</finalName>
 	</build>
 
 </project>
